@@ -3,7 +3,7 @@
 |-----------------------------------|------------------------------  |
 | * Mindset_Growth.                 | [Mindset-Growth](https://mahmood-alashqar.github.io/Reading_Note/Growth_mindset)                               |
 |                                   |                                |
-| * Git.                   | [Git](https://mahmood-alashqar.github.io/Reading_Note/Git_demo)                              |
+| * Git.                   | [Git](https://mahmood-alashqar.github.io/Reading_Note/git_demo)                              |
 |                                   |                                |
 | * Read-03.  | [Read-03](https://mahmood-alashqar.github.io/Reading_Note/Read-03)                               |
 |                                   |                                |
