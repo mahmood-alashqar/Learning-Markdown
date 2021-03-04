@@ -1,3 +1,16 @@
+ Mahmood Yousef ahmad Alashqar
+ 
+ 
+im 25
+
+
+i`ve a BA in computer science 
+
+
+living in jordan/Irbid
+
+
+
 
 | ## Table of contents               |  Repo Links                    |
 |-----------------------------------|------------------------------  |
