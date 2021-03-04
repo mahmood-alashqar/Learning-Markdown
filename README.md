@@ -20,7 +20,7 @@ living in jordan/Irbid
 |                                   |                                |
 | * Read-04a.    | [Read-04a](https://mahmood-alashqar.github.io/Reading_Note/read-04a)                               |
 |                                   |                                |
-| * Read-04c.    | [Read-04c](https://mahmood-alashqar.github.io/Reading_Note/Read-04c)                               |
+| * Read-04c.    | [Read-04c](https://mahmood-alashqar.github.io/Reading_Note/read-04c)                               |
 |                                   |                                |
 
 
