@@ -1,3 +1,4 @@
+![hc](zz.png)
 # JavaScript(JS) makes websites more attractive , intristing and user-friendlly
 ## first of all you have to learn *HTML&CSS*
 it makes websites more attractive , intristing and user-friendlly by :
