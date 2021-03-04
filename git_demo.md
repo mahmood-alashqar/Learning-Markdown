@@ -1,19 +1,8 @@
-Mahmood Yousef ahmad Alashqar 
-im 25 
-i`ve a BA in computer science 
-living in jordan/Irbid
+# Git 
 
+## is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency
 
+# Git is easy to learn and has a tiny footprint with lightning fast performance. 
 
-
-| ## Table of contents               |  Repo Links                    |
-|-----------------------------------|------------------------------  |
-| * Mindset_Growth.                 | [Mindset-Growth](https://mahmood-alashqar.github.io/Reading_Note/Growth_mindset)                               |
-|                                   |                                |
-| * Git.                   | [Git](https://mahmood-alashqar.github.io/Reading_Note/git_demo)                              |
-|                                   |                                |
-| * Read-03.  | [Read-03](https://mahmood-alashqar.github.io/Reading_Note/Read-03)                               |
-|                                   |                                |
-| * Read-04a.    | [Read-04a](https://mahmood-alashqar.github.io/Reading_Note/Read-04a)                               |
-|                                   |                                |
-
+It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
+![git](https://www.codematters.online/wp-content/uploads/2019/09/Git-Logo-2Color.png)
