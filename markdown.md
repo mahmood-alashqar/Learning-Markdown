@@ -1,0 +1,3 @@
+# Markdown Guide Get Started Cheat Sheet Basic Syntax Extended Syntax Tools Book The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document
+
+ ## Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form
