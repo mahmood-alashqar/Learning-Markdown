@@ -10,4 +10,4 @@
 
 ## if false it wull do some a spicific statment
 
-![loops] (<https://www.w3resource.com/w3r_images/do-while.gif>)
+![loops](<https://www.w3resource.com/w3r_images/do-while.gif>)
