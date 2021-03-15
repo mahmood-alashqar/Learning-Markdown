@@ -52,4 +52,4 @@ definitions for each of those terms.
 * Set margins and padding for boxes
 * Show and hide boxes
 
-![Box Proparites](Untitled.jpg)
+![Box Proparites](.\Untitled.jpg)
