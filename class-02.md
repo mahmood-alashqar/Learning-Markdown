@@ -12,4 +12,12 @@
 
   > there is alot of tags that can you used to make your website just 
   > as you like 
+  # CSS
+  > amazing languge allowed you to control in beauty of your pages 
+  > colors,fonts,positions ,...etc.
+
+  # JavaScript (js)
+  > a language allowed to you for use some features  makes your websites more attractive and soo useful 
+  spicaly when use loops e.g. : 
+  foor loop , while loop,.. .etc.
   
