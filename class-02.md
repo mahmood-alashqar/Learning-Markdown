@@ -1,4 +1,4 @@
-> firstof all we have to know that the diffrent between 
+> first of all we have to know that the diffrent between 
 > the heading and paragraph: it abpout the *importance* 
 > see, when user search about somthing ,
 > the browser will search through the heading not in paragraph.
