@@ -1,10 +1,12 @@
 # Domain Modeling
+
 ### Domain modeling is the process of creating a conceptual model in code for a specific problem. A model describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem domain. An entity that stores data in properties and encapsulates behaviors in methods is commonly referred to as an object-oriented model.
 
 ### A domain model that's articulated well can verify and validate the understanding of a specific problem among various stakeholders. As a communication tool, it defines a vocabulary that can be used within and between both technical and business teams.
 
- # Define a constructor and initialize properties 
-  ### Here's an implementation of the EpicFailVideo constructor function.
+# Define a constructor and initialize properties 
+
+### Here's an implementation of the EpicFailVideo constructor function.
   ```
 var EpicFailVideo = function(epicRating, hasAnimals) {
   this.epicRating = epicRating;
