@@ -6,6 +6,7 @@
 
 # Define a constructor and initialize properties 
 
+
 ### Here's an implementation of the EpicFailVideo constructor function.
   ```
 var EpicFailVideo = function(epicRating, hasAnimals) {
