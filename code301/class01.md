@@ -33,3 +33,4 @@
 ### * System maintenance and evolution − Easy to change and update the implementation without affecting the rest of the system.
 
 ### * Independent − Independency and flexible connectivity of components. Independent development of components by different group in parallel. Productivity for the software development and future software development.
+
