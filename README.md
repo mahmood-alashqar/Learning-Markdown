@@ -1,30 +1,14 @@
- Mahmood Yousef ahmad Alashqar
- 
- 
-im 25
-
-
-i`ve a BA in computer science 
-
-
-living in jordan/Irbid
-
 
 | ## Table of contents               |  Repo Links                    |
 |-----------------------------------|------------------------------  |
-| * Mindset_Growth.                 | [Mindset-Growth](https://mahmood-alashqar.github.io/Reading_Note/Growth_mindset)                               |
+| * Code 101                 | [Code 101](00000https://github.com/mahmood-alashqar/Reading_Note/tree/main/code%20101)                               |
 |                                   |                                |
-| * Git.                   | [Git](https://mahmood-alashqar.github.io/Reading_Note/git_demo)                              |
+| * Code 201.                   | [Code 201](https://github.com/mahmood-alashqar/Reading_Note/tree/main/code%20201)                              |
 |                                   |                                |
-| * Read-03.  | [Read-03](https://mahmood-alashqar.github.io/Reading_Note/read-03)                               |
+| * Code 301.  | [Code 301](https://github.com/mahmood-alashqar/Reading_Note/tree/main/code301)                               |
 |                                   |                                |
-| * Read-04a.    | [Read-04a](https://mahmood-alashqar.github.io/Reading_Note/read-04a)                               |
+| * Code 401.    | [Code 401](https://mahmood-alashqar.github.io/Reading_Note/read-04a)                               |
 |                                   |                                |
-| * Read-04c.    | [Read-04c](https://mahmood-alashqar.github.io/Reading_Note/read-04c)                               |
-|                                   |                                |
-| * Code 201 Reading Notes    | [Code 201 Reading Notes](https://mahmood-alashqar.github.io/Reading_Note/Code_201)                               |
-|                                   |                                |
-
 
 
 
