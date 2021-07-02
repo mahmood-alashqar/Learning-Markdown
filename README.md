@@ -10,6 +10,3 @@
 | * Code_401.    | [ Advanced Software Development](https://github.com/mahmood-alashqar/Reading_Note/tree/main/code_401)     
 
 |                                   |                                |
-
-
-
