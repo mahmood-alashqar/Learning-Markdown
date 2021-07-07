@@ -14,16 +14,21 @@
 
 # CONSIDER YOUR OPTIONS
 * List your opportunities:
+### Think small as well as big or medium, personal as well as professional, dreams as well as realities. 
   * Exam at Amazon Company 
   * test at Jawaker Company 
   * Interview at Aspire Company
   * Interview at Souimetch Company
 
+
+  
+* List your core values based on your answers to #1
+### Core values are your foundational beliefs, ways to think and act that are more important to you than anything else. 
 * everything 10/10
 
 # MAKE ROOM FOR WHAT YOU LOVE
 
-
+## Think about your purpose. What do you need more or less of to achieve it? Refer to your answers in #1 for guidance.
 
 
 | MAX               |  MIN                    |
@@ -34,3 +39,7 @@
 |                                   |                                |
 | 3-Uniqe Software | PopularSoftware                               |
 |                                   
+
+
+# FILTER BY PURPOSE
+*
