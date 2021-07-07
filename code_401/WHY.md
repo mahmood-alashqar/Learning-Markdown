@@ -42,4 +42,8 @@
 
 
 # FILTER BY PURPOSE
-*
+### When you’re feeling out of sorts about what’s going on in your life, or if you’re trying to decide if a new opportunity fits your purpose, use these questions to filter through to an answer.
+* value #3
+* that make me do anything 
+* i'm not so sure
+* also i'm not sure 
